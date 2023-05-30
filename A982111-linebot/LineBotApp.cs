@@ -52,7 +52,7 @@ public class LineBotApp : WebhookApplication
                 //回傳 hellow
                 result = new List<ISendMessage>
                 {
-                    new TextMessage("你寂寞嗎?")
+                    new TextMessage("hellow")
                 };
                 */
             }
